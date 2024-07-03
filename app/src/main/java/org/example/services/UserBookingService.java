@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.Scanner;
 
-public class UserBookingService{
+public class git addUserBookingService{
 
     private ObjectMapper objectMapper = new ObjectMapper();
 
